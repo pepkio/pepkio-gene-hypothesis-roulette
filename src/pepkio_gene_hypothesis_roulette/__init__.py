@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Pepkio gene-hypothesis-roulette Python client package."""
 
 from .client import PepkioClient

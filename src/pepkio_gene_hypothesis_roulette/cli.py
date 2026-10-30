@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-gene-hypothesis-roulette."""
 
 from __future__ import annotations
